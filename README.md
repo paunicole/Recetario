@@ -1,4 +1,5 @@
 # 📝 Recetario de cocina
+
 Para este proyecto se deberá diseñar una aplicación de escritorio en la que puedan crear, editar y eliminar recetas.
 
 Una receta debe estar compuesta de los siguientes datos:
@@ -66,6 +67,6 @@ Debera contar con las siguientes vistas:
 ![image](https://user-images.githubusercontent.com/129181094/228666754-a31bb101-c5ea-4e90-a463-5e20c4e2f47f.png)
 
 
-## Autoras
-- Paula Nicole Cardozo Gómez
-- Daniela Alejandra Gutierrez Aliaga
+## Autoras ✒️
+- **Paula Nicole Cardozo Gómez** - [paunicole](https://github.com/paunicole)
+- **Daniela Alejandra Gutierrez Aliaga** - [Danu1979](https://github.com/Danu1979)
