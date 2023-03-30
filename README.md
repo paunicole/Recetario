@@ -49,7 +49,9 @@ Debera contar con las siguientes vistas:
 ## Instalación ⚙️
 
 1. Clona este proyecto
-2. Ve a la carpeta del proyecto `cd Recetario`
+2. Ve a la carpeta del proyecto `cd recetario`
+3. Instalar la biblioteca Pillow `pip install Pillow`
+4. Ejecutar programa `python index.py`
 
 ## Vista Previa
 
