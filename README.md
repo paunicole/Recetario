@@ -1,4 +1,8 @@
-# 📝 Recetario de cocina
+# 📝 Proyecto Recetario de cocina
+
+A continuación, se indican los puntos a considerar dentro del desarrollo del proyecto correspondiente al primer cuatrimestre del año 2022 para la asignatura de Programación I de la Universidad Provincial de Administración, Tecnología y Oficios (UPATecO).
+
+## Sobre el proyecto 🚀
 
 Para este proyecto se deberá diseñar una aplicación de escritorio en la que puedan crear, editar y eliminar recetas.
 
@@ -41,7 +45,12 @@ Debera contar con las siguientes vistas:
     - Muestra una receta ya existente.
     - Carga/modificación de una receta.
     - Búsqueda y filtro. La ventana deberá tener un campo de búsqueda, por nombre y/o etiqueta. Una vez filtrados las recetas, se las mostrará en una lista.
-    
+
+## Instalación ⚙️
+
+1. Clona este proyecto
+2. Ve a la carpeta del proyecto `cd Recetario`
+
 ## Vista Previa
 
 - Ventana Principal
