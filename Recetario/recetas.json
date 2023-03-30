@@ -1,0 +1,456 @@
+[
+  {
+    "fecha_creacion": "15/03/2023 16:40:19",
+    "nombre": "Pizza",
+    "lista_ingredientes": [
+      {
+        "nombre": "Ingrediente 1",
+        "cantidad": 2,
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Ingrediente 2",
+        "cantidad": 3,
+        "medida": "litros"
+      },
+      {
+        "nombre": "Ingrediente 3",
+        "cantidad": 4,
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Paso 1",
+      "Paso 2",
+      "Paso 3"
+    ],
+    "imagen": "imagenes/pizza.jpg",
+    "tiempo_preparacion": "60",
+    "tiempo_coccion": "5",
+    "etiquetas": [
+      "PlatoSalado",
+      "Horno"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "17/03/2023 16:40:19",
+    "nombre": "Milanesas con ensalada",
+    "lista_ingredientes": [
+      {
+        "nombre": "Carne",
+        "cantidad": 1,
+        "medida": "kilogramos"
+      },
+      {
+        "nombre": "Pan reallado",
+        "cantidad": "1/2",
+        "medida": "kilogramos"
+      },
+      {
+        "nombre": "Huevo",
+        "cantidad": 1,
+        "medida": "tazas"
+      },
+      {
+        "nombre": "Aceite para fritar",
+        "cantidad": 1,
+        "medida": "tazas"
+      },
+      {
+        "nombre": "lechuga y tomate para acompa\u00f1ar",
+        "cantidad": 1,
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Batir el huevo",
+      "agregar sal y carne",
+      "pasar por el pan rallado.",
+      "Fritar en aceite bien caliente.",
+      "Acompa\u00f1ar con ensalada de lechuga y tomates."
+    ],
+    "imagen": "imagenes/Milanesas con ensalada.png",
+    "tiempo_preparacion": "30",
+    "tiempo_coccion": "20",
+    "etiquetas": [
+      "Ensalada",
+      "Frito"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "17/03/2023 16:40:19",
+    "nombre": "Arroz con leche",
+    "lista_ingredientes": [
+      {
+        "nombre": "Leche",
+        "cantidad": "2",
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Arroz",
+        "cantidad": "3",
+        "medida": "litros"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "4",
+        "medida": "tazas"
+      },
+      {
+        "nombre": "Canela",
+        "cantidad": "4",
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Hervir todo",
+      "servir",
+      "dejar enfriar"
+    ],
+    "imagen": "imagenes/arroz con leche.png",
+    "tiempo_preparacion": 15,
+    "tiempo_coccion": 45,
+    "etiquetas": [
+      "Postre"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "17/03/2023 16:40:19",
+    "nombre": "Torta de merengue",
+    "lista_ingredientes": [
+      {
+        "nombre": "Huevos",
+        "cantidad": 12,
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "1/5",
+        "medida": "kilogramos"
+      },
+      {
+        "nombre": "Frutos rojos",
+        "cantidad": 4,
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Separar claras de yemas",
+      "Batirlas a punto nieve.",
+      "Mezclar con nata montada.",
+      "Hornear y decorar con frutos rojos.",
+      "Enfriar en la heladera"
+    ],
+    "imagen": "imagenes/torta de merengue.png",
+    "tiempo_preparacion": "45",
+    "tiempo_coccion": "30",
+    "etiquetas": [
+      "Tortas",
+      "Postre"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "17/03/2023 16:40:19",
+    "nombre": "Torta de yogurts",
+    "lista_ingredientes": [
+      {
+        "nombre": "Yogurt natural",
+        "cantidad": "1",
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Azucar",
+        "cantidad": "2",
+        "medida": "tazas"
+      },
+      {
+        "nombre": "Huevos",
+        "cantidad": "3",
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Aceite",
+        "cantidad": "1",
+        "medida": "tazas"
+      },
+      {
+        "nombre": "Royal",
+        "cantidad": "1",
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Harina",
+        "cantidad": "3",
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "batir huevos",
+      "a\u00f1adir aceite y yogurt y batir",
+      "Agregar harina, azucar y royal",
+      "Mezclar todo y hornear fuego medio"
+    ],
+    "imagen": "imagenes/torta de yogurt.png",
+    "tiempo_preparacion": "15",
+    "tiempo_coccion": "45",
+    "etiquetas": [
+      "Tortas"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "22/03/2023 00:18:37",
+    "nombre": "Pollo con ensalada",
+    "lista_ingredientes": [
+      {
+        "nombre": "Ingrediente 1",
+        "cantidad": "2",
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Ingrediente 2",
+        "cantidad": "3",
+        "medida": "litros"
+      },
+      {
+        "nombre": "Ingrediente 3",
+        "cantidad": "4",
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Paso 1",
+      "Paso 2",
+      "Paso 3"
+    ],
+    "imagen": "imagenes/pollo.jpg",
+    "tiempo_preparacion": "30",
+    "tiempo_coccion": "10",
+    "etiquetas": [
+      "PlatoSalado",
+      "Ensalada"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "22/03/2023 01:36:09",
+    "nombre": "Asado",
+    "lista_ingredientes": [
+      {
+        "nombre": "Ingrediente 1",
+        "cantidad": "2",
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Ingrediente 2",
+        "cantidad": "3",
+        "medida": "litros"
+      },
+      {
+        "nombre": "Ingrediente 3",
+        "cantidad": "4",
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Paso 1",
+      "Paso 2",
+      "Paso 3"
+    ],
+    "imagen": "imagenes/asado.jpg",
+    "tiempo_preparacion": "10",
+    "tiempo_coccion": "60",
+    "etiquetas": [
+      "PlatoSalado"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "23/03/2023 23:21:28",
+    "nombre": "Mini-pizzas de berenjena",
+    "lista_ingredientes": [
+      {
+        "nombre": "Berenjenas medianas",
+        "cantidad": 2,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Tomate frito o salsa de tomate",
+        "cantidad": 1,
+        "medida": "tazas"
+      }
+    ],
+    "preparacion": [
+      "Precalienta el horno a 180\u00b0C durante 10 minutos.",
+      "Lava bien las berenjenas y c\u00f3rtalas en rebanadas de aproximadamente unos 7 u 8 mil\u00edmetros de espesor.",
+      "Col\u00f3calas en una fuente cubierta con papel de horno.",
+      "Luego, hazle unos cortes poco profundos a las berenjenas, ponles un poco de sal y roc\u00edalas con aceite.",
+      "Coloca la fuente en el horno a 180\u00b0C durante 15 o 20 minutos.",
+      "Cuando est\u00e9 listo, saca la fuente y pon un poco de tomate frito sobre cada rebanada.",
+      "Espolvor\u00e9ales un poco de queso rallado y vuelve a meterlas en el horno, esta vez a 200\u00b0C durante unos 4 minutos.",
+      "S\u00e1calas y estar\u00e1n listas para servir."
+    ],
+    "imagen": "imagenes/Mini pizzas de berenjena.jpg",
+    "tiempo_preparacion": "10",
+    "tiempo_coccion": "10",
+    "etiquetas": [
+      "PlatoSalado",
+      "Horno"
+    ],
+    "es_favorita": false
+  },
+  {
+    "fecha_creacion": "23/03/2023 23:55:11",
+    "nombre": "Flan de naranja",
+    "lista_ingredientes": [
+      {
+        "nombre": "Huevos",
+        "cantidad": 5,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Zumo de naranja",
+        "cantidad": 500,
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Az\u00facar",
+        "cantidad": 180,
+        "medida": "gramos"
+      }
+    ],
+    "preparacion": [
+      "En un cazo vierte 4 cucharadas de az\u00facar y un poco de agua y col\u00f3calo en el fuego.",
+      "Cuando el az\u00facar se empiece a dorar, vierte el caramelo en el molde del flan.",
+      "Bate los huevos junto con el az\u00facar hasta que esta \u00faltima se haya integrado completamente.",
+      "A\u00f1ade el zumo de naranja y contin\u00faa batiendo hasta que la mezcla est\u00e9 homog\u00e9nea.",
+      "Vierte la mezcla en el molde del flan, sobre el caramelo, y t\u00e1palo con un papel de aluminio.",
+      "Coloca dos dedos de agua en la bandeja del horno y coloca el molde del flan dentro.",
+      "Con el horno precalentado a 180\u00baC, deja hornear durante 30 minutos.",
+      "Cuando est\u00e9 listo, retira el molde del horno y deja enfriar. Cuando est\u00e9 templado, desmolda el flan y gu\u00e1rdalo en la nevera."
+    ],
+    "imagen": "imagenes/Flan de naranja.jpg",
+    "tiempo_preparacion": "10",
+    "tiempo_coccion": "5",
+    "etiquetas": [
+      "Postre",
+      "Horno"
+    ],
+    "es_favorita": false
+  },
+  {
+    "fecha_creacion": "24/03/2023 00:10:01",
+    "nombre": "Alb\u00f3ndigas de cordero con tomate",
+    "lista_ingredientes": [
+      {
+        "nombre": "Carne magra de cordero",
+        "cantidad": 400,
+        "medida": "gramos"
+      },
+      {
+        "nombre": "Huevo",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Zanahoria cocida",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Pan rallado",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Diente de ajo",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Ramita de perejil",
+        "cantidad": 1,
+        "medida": "unidades"
+      }
+    ],
+    "preparacion": [
+      "Pica el ajo y el perejil.",
+      "En un bol, remoja el pan en la leche. Escurre y d\u00e9jalo reposar.",
+      "Bate el huevo y a\u00f1ade la miga, la carne picada, la harina, la sal, el ajo y el perejil. Mezcla bien y d\u00e9jalo reposar un poco en la nevera.",
+      "Haz las alb\u00f3ndigas y p\u00edsalas por pan rallado.",
+      "Fr\u00edelas en un poco de aceite hasta que se doren.",
+      "Pon en una cazuela el tomate y la zanahoria cocida y triturada y cuando empiece a calentarse a\u00f1ade las alb\u00f3ndigas y d\u00e9jalo cocinar durante cinco minutos."
+    ],
+    "imagen": "imagenes/Alb\u00f3ndigas de cordero con tomate.jpg",
+    "tiempo_preparacion": "10",
+    "tiempo_coccion": "10",
+    "etiquetas": [
+      "PlatoSalado",
+      "Frito"
+    ],
+    "es_favorita": true
+  },
+  {
+    "fecha_creacion": "24/03/2023 00:48:10",
+    "nombre": "Natilla con chocolate",
+    "lista_ingredientes": [
+      {
+        "nombre": "Leche",
+        "cantidad": 1,
+        "medida": "litros"
+      },
+      {
+        "nombre": "Yemas de huevo",
+        "cantidad": 4,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Az\u00facar",
+        "cantidad": 6,
+        "medida": "cucharadas"
+      },
+      {
+        "nombre": "Vainilla",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Lim\u00f3n",
+        "cantidad": 1,
+        "medida": "unidades"
+      },
+      {
+        "nombre": "Chocolate para fundir",
+        "cantidad": 1,
+        "medida": "unidades"
+      }
+    ],
+    "preparacion": [
+      "Pon a hervir la leche con la rama de vainilla, de canela y la corteza de lim\u00f3n.",
+      "Bate las yemas de los huevos con cuatro cucharadas de az\u00facar.",
+      "Diluye la maicena en un poco de leche fr\u00eda y a\u00f1\u00e1dela a la leche ya en el fuego pero antes de que empiece a hervir. Cuando hierva, qu\u00edtala del fuego, t\u00e1pala y d\u00e9jala as\u00ed durante unos diez minutos.",
+      "Coloca en un cazo las yemas de huevo con az\u00facar, a ba\u00f1o mar\u00eda. Agrega poco a poco la leche sin dejar de remover hasta conseguir una crema homog\u00e9nea.",
+      "Derrite el chocolate con un poco de mantequilla a fuego lento.",
+      "Bate las claras de los huevos restantes con las otras dos cucharadas de az\u00facar hasta que est\u00e9 a punto de nieve. Mezcla bien las claras con las yemas y luego con el chocolate derretido.",
+      "Sirve en copas, alternando una capa de natilla con una del mousse de chocolate.",
+      "Termina con una capa de natilla y espolvorea un poco de chocolate en polvo.",
+      "Guarda las copas en la nevera aproximadamente durante una hora y luego estar\u00e1n listas."
+    ],
+    "imagen": "imagenes/Natilla chocolate.jpeg",
+    "tiempo_preparacion": "10",
+    "tiempo_coccion": "10",
+    "etiquetas": [
+      "Postre"
+    ],
+    "es_favorita": true
+  }
+]
