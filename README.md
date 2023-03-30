@@ -59,23 +59,24 @@ Debera contar con las siguientes vistas:
 
 ![image](https://user-images.githubusercontent.com/129181094/228665479-a37dda38-6fc1-4b3d-943b-abecda2d339e.png)
 
-- Ver Receta
-
-![image](https://user-images.githubusercontent.com/129181094/228668988-de6dfc1f-fcc0-47b7-98ae-8a1a9acafe17.png)
-
-
 - Crear Receta
 
 ![image](https://user-images.githubusercontent.com/129181094/228666215-fb30bd43-8c56-4a0c-bd4c-8208e6b08989.png)
 
 
-- Editar Receta
-
-![image](https://user-images.githubusercontent.com/129181094/228669170-dfc1d178-9ee1-4401-be9a-e68271c7aa8e.png)
-
 - Listar Recetas
 
 ![image](https://user-images.githubusercontent.com/129181094/228666754-a31bb101-c5ea-4e90-a463-5e20c4e2f47f.png)
+
+
+- Ver Receta
+
+![image](https://user-images.githubusercontent.com/129181094/228668988-de6dfc1f-fcc0-47b7-98ae-8a1a9acafe17.png)
+
+
+- Editar Receta
+
+![image](https://user-images.githubusercontent.com/129181094/228669170-dfc1d178-9ee1-4401-be9a-e68271c7aa8e.png)
 
 
 ## Autoras ✒️
