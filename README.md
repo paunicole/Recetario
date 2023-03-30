@@ -1,4 +1,4 @@
-# 📝 Proyecto Recetario de cocina
+# 📝 Recetario de cocina
 
 A continuación, se indican los puntos a considerar dentro del desarrollo del proyecto correspondiente al primer cuatrimestre del año 2022 para la asignatura de Programación I de la Universidad Provincial de Administración, Tecnología y Oficios (UPATecO).
 
