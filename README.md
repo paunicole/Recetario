@@ -53,7 +53,7 @@ Debera contar con las siguientes vistas:
 3. Instalar la biblioteca Pillow `pip install Pillow`
 4. Ejecutar programa `python index.py`
 
-## Vista Previa
+## Vista Previa 👀
 
 - Ventana Principal
 
